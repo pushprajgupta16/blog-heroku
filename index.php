@@ -1,5 +1,5 @@
 <?php
 
-include_once("bootstrapassg/file.html")
+include_once("bootstrapassg/index.html")
 
 ?>
